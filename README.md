@@ -1,0 +1,1 @@
+this is a live demo of my pretrained [MNIST digit classifier](https://strengthened-tundra-deal.glitch.me) deployed to AWS EC2 instance → [https://strengthened-tundra-deal.glitch.me](https://strengthened-tundra-deal.glitch.me)
