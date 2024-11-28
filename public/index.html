@@ -121,7 +121,7 @@
         // predict digit on button click
         document.getElementById("predictBtn").addEventListener("click", () => {
             const pixels = getPixels();
-            fetch('http://localhost:3000/predict', {
+            fetch('/predict', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ image: pixels }) 
